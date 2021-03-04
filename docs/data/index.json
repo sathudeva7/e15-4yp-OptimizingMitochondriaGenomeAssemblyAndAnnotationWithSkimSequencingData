@@ -1,41 +1,41 @@
 {
-   "title":"This is the title of the project",
+   "title":"Optimizing Mitochondria GenomeAssembly And Annotation WithSkim Sequencing Data",
    "team":[
       {
-         "name":"Team Member Name 1",
-         "email":"email@eng.pdn.ac.lk",
-         "eNumber":"E/yy/xxx",
-         "github_profile":"#",
+         "name":"K.Sathurshan",
+         "email":"e15330@eng.pdn.ac.lk",
+         "eNumber":"E/15/330",
+         "github_profile":"https://github.com/sathudeva7",
          "linkedin_profile":"#",
          "researchgate_profile":"#"
       },
       {
-         "name":"Team Member Name 2",
-         "email":"email@eng.pdn.ac.lk",
-         "eNumber":"E/yy/xxx",
-         "github_profile":"#",
+         "name":"S.Thinesh",
+         "email":"e15366@eng.pdn.ac.lk",
+         "eNumber":"E/15/366",
+         "github_profile":"https://github.com/Sathathinesh",
          "linkedin_profile":"#",
          "researchgate_profile":"#"
       },
       {
-         "name":"Team Member Name 3",
-         "email":"email@eng.pdn.ac.lk",
-         "eNumber":"E/yy/xxx",
-         "github_profile":"#",
+         "name":"R.Vaheesan",
+         "email":"e15373@eng.pdn.ac.lk",
+         "eNumber":"E/15/373",
+         "github_profile":"https://github.com/vaheesa",
          "linkedin_profile":"#",
          "researchgate_profile":"#"
       }
    ],
    "supervisors":[
       {
-         "name":"Dr. Supervisor 1",
-         "email":"email@eng.pdn.ac.lk",
+         "name":"Dr. Asitha Bandaranayake",
+         "email":"asithab@eng.pdn.ac.lk",
          "linkedin_profile":"",
          "researchgate_profile":""
       },
       {
-         "name":"Supervisor 2",
-         "email":"email@eng.pdn.ac.lk",
+         "name":"Prof. Pradeepa Bandaranayake",
+         "email":"pradeepag@agri.pdn.ac.lk",
          "linkedin_profile":"",
          "researchgate_profile":""
       }
