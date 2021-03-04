@@ -1,18 +1,20 @@
 # Project Name
-
+Optimizing Mitochondria GenomeAssembly And Annotation WithSkim Sequencing Data
 ## Description
+This assembly is to find an efficient procedure to identify the optimal 
+set of mitochondria genome data from skim sequencing data and assemble, annotate those data to 
+form a complete mitochondria genome.
 
-This is a short desciption of the project. This section should be around 3 sentences.
 
 ## Team Members
-1. E/15/001 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
-2. E/15/002 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
-3. E/15/003 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
+1. E/15/330 K.Sathursan [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e15330@ce.pdn.ac.lk)]
+2. E/15/002 S.Thinesh [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e15366@ce.pdn.ac.lk)]
+3. E/15/003 R.Vaheesan [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e15373@ce.pdn.ac.lk)]
 
 
 ## Supervisors
-1. Prof. Staff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](mailto:lecturer@ce.pdn.ac.lk)]
-2. Dr. Satff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](mailto:lecturer@ce.pdn.ac.lk)]
+1. Dr. Asitha Bandaranayake [[Website](http://www.ce.pdn.ac.lk/academic-staff/asitha-bandaranayake/), [Email](mailto:asithab@eng.pdn.ac.lk)]
+2. Prof. Pradeepa Bandaranayake  [[Website](http://agri.pdn.ac.lk/agbc/academic_staff_dt?dr-pcg-bandaranayake&xqrt=274), [Email](mailto:pradeepag@agri.pdn.ac.lk)]
 
 
 ## Links
